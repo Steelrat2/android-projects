@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicasterTest</string>
+    <string name="search">Search</string>
+    <string name="error">Error</string>
+    <string name="hastagerror">HashTag is incorrect or empty</string>
+    <string name="title">Please enter HashTag for Twitter searching:</string>
+</resources>
